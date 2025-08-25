@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"testing!!!!``","image":"https://th.bing.com/th/id/OIP.Mvcr0QDsGXOx29cSBfXd6AHaE7?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3","date":"2025-08-22","description":"sdsd","id":"0c476ba5-7bd4-4990-92c3-d188a7208d9e"}],"users":[{"email":"Subodhkdk1100@gmail.com","password":"$2a$12$m9rvfWE6/PAZXZ2xJWaAk.EwVEDrDos.juwboLlkjYKjDkP6x/.mC","id":"3fd81d50-ae53-486f-ab9d-f19ce1523b7c"},{"email":"Subodhkddk1100@gmail.com","password":"$2a$12$O5064OZX3zizdnxFEWIYYuvjuosFBg1dPpn6kpjoCfANB4Z0YhfxS","id":"79cc91b3-75c7-4d18-9881-68f7c0f4004c"}]}
